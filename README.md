@@ -26,7 +26,7 @@ Sou formado em Ciência da Computação e atuo há **9 anos** na área de desenv
 Minha atuação vai da descrição de requisitos e refinamento de tasks até o deploy e monitoramento em produção — tanto em **web** quanto em **mobile**.
 
 - 🏢 Atualmente na **Finaya**, liderando o time de front-end
-- 🏗️ Passagens por **Builders Bank**, **Builders** e **Binamik**
+- 🏗️ Passagens por **Builders Bank**, **Builders** , **Viajar Faz Bem - SBTUR** e **Binamik**
 - 📍 Brasil
 
 ---
