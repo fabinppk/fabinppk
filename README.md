@@ -23,8 +23,15 @@
 
 Sou formado em Ciência da Computação e atuo há **9 anos** na área de desenvolvimento front-end. Hoje lidero equipes como **Front-end Engineering Manager**, com foco em capacitar times, construir produtos de alto impacto e conectar tecnologia às necessidades reais dos usuários.
 
-Minha atuação vai da descrição de requisitos e refinamento de tasks até o deploy e monitoramento em produção — tanto em **web** quanto em **mobile**.
+Atuei a frente do desenvolvimento de jornadas financeiras no app mobile, abrangendo Pix, Empréstimo Pessoal, Cartão de Crédito e o fluxo de Onboarding com validação biométrica via SDKs de facematch e liveness.
 
+Na frente Web, tenho experiência na criação e manutenção de ferramentas de Backoffice no modelo internet banking, gerenciando o ciclo de vida completo do usuário — do cadastro e aprovação de conta ao monitoramento e controle operacional.
+
+Em atuações cross, tive a oportunidade de colaborar com bibliotecas compartilhadas, incluindo Design System corporativo e bibliotecas de utilitários, garantindo consistência visual e escalabilidade para múltiplos projetos.
+
+Como referência técnica, lidero o processo de Code Review e o gerenciamento de deploy mobile, coordenando o ciclo completo de submissão e homologação nas lojas Play Store e App Store.
+
+Além disso, conduzo o time técnico desde o refinamento de requisitos até a entrega final, garantindo o alinhamento entre negócio, produto e engenharia em ambientes de alta performance.
 - 🏢 Atualmente na **Finaya**, liderando o time de front-end
 - 🏗️ Passagens por **Builders Bank**, **Builders** , **Viajar Faz Bem - SBTUR** e **Binamik**
 - 📍 Brasil
